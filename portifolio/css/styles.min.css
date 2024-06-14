@@ -240,7 +240,7 @@ li {
 }
 .skill-outer h4 span::before {
     right: 100%;
-	top: 50%;
+	top: 85%;
 	border: solid transparent;
 	content: " ";
 	height: 0;
@@ -346,8 +346,7 @@ li {
     transition: all 0.3s ease-out 0s;
     visibility: hidden;
 }
-.blog-post a, button.mfp-close {
-}
+
 .imageHover div {
     top: 50%;
     transform: translate(0px, -50%);

@@ -40,10 +40,10 @@
 0% {
     transform: rotate(0deg);
 }
-25%, 85% {
+25%, 50% {
     transform: rotate(180deg);
 }
-100%, 85% {
+100%, 75% {
     transform: rotate(360deg);
 }
 }
@@ -51,10 +51,10 @@
 0% {
     transform: rotate(0deg);
 }
-25%, 50% {
+25%, 85% {
     transform: rotate(180deg);
 }
-100%, 85% {
+100%, 75% {
     transform: rotate(360deg);
 }
 }
